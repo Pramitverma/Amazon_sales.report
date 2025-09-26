@@ -1,4 +1,4 @@
-https://github.com/Pramitverma/Amazon_sales.report/blob/main/Amazon_sales.Sceenshot.PowerBi.png
+
 📦 Amazon Sales Dashboard
 
 A visually engaging and interactive Power BI dashboard designed to track and analyze sales performance on Amazon—including fulfillment efficiency, shipping status, category trends, and regional distribution across states in India.
