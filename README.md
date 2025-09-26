@@ -12,6 +12,7 @@ The Amazon Sales Dashboard offers a powerful, data-driven overview of sales tren
 The dashboard was built using the following tools and technologies:
 
 • 📊 Power BI Desktop – Main platform for interactive dashboard creation
+
 • 🔄 Power Query – Data cleansing and transformation
 • 🧠 DAX (Data Analysis Expressions) – For dynamic measures and visual logic
 • 📁 Excel (.xlsx) – Used as the primary data source
