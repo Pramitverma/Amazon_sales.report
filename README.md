@@ -110,7 +110,8 @@ Connect to your updated Excel data if needed.
 Interact with slicers and visuals to analyze sales trends.
 
 📧 Contact
-
+gmail - pratapverma14810869@gmail.com
 For questions or collaborations, feel free to reach out via GitHub Issues
- or connect on LinkedIn
-.
+or connect on LinkedIn
+www.linkedin.com/in/pramit-verma-589077245
+
